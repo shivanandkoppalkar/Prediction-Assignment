@@ -248,7 +248,11 @@ while both SVM variations perform worse:
 
 We give a brief plot of all runs:
 
-![plot of chunk plot_accuracies](figure/plot_accuracies-1.png) 
+![plot of chunk plot_accuracies](plot_accuracies-1.png) 
+![unnamed-chunk-9-1](unnamed-chunk-9-1.png) 
+![unnamed-chunk-10-1](unnamed-chunk-10-1.png) 
+![unnamed-chunk-11-1](unnamed-chunk-11-1.png) 
+![unnamed-chunk-21-1](unnamed-chunk-21-1.png) 
 
 ### Final model
 

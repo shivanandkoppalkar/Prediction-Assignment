@@ -284,6 +284,12 @@ while both SVM variations perform worse:
 We give a brief plot of all runs:
 
 ```{r plot_accuracies, echo = FALSE, fig.height = 3}
+```{r plot_accuracies, echo = FALSE, fig.height = 3}
+```{r unnamed-chunk-9-1, echo = FALSE, fig.height = 10}
+```{r unnamed-chunk-10-1, echo = FALSE, fig.height = 10}
+```{r unnamed-chunk-11-1, echo = FALSE, fig.height = 10}
+```{unnamed-chunk-21-1, echo = FALSE, fig.height = 10}
+
 accuracies <- data.frame(accuracy = c(accuracy_rf,
                                       accuracy_svm_c,
                                       accuracy_svm_nu),
